@@ -1,0 +1,1 @@
+# organizing-user-search-history-project-template
